@@ -1,16 +1,55 @@
 # domn-film-ironic-upgrade
 
-> 独立技能仓库 · 来自 domn skills 集合（视频制作 域）
+![domn-film-ironic-upgrade 封面](assets/readme/hero.webp)
 
-反讽升格短视频企划、口播文案与生视频提示词。当用户要做"把 XX 拍成买不起的样子""如何把土东西拍高级""把廉价物拍出高级感"这类解构式搞笑短片，或要写反讽、戏仿、伪教程、拆解类口播文案，以及自媒体讽刺短视频、伪广告教程、行业黑话吐槽时使用。产出视频企划（选题配方、话语体系拆解清单、笑点零件排布、分镜要点、逐句口播文案）与七段式生视频提示词（造型断层、同色升格、闪卡节奏）。核心方法是"复述"——把某套装 X 话术逐条还原，用冷面说明书语气说出来，笑点自己会长出来。提示词格式遵守 domn-film-seedance-format。
+> 反讽升格短视频：企划 + 口播 + 生视频提示词。
 
-## 元信息
-- **领域**：视频制作
-- **触发/用途**：见上方说明
-- **标签**：—
+## 是什么
 
-## 使用方法
-将本仓库内容放入支持 `SKILL.md` 的 Agent 技能目录（如 WorkBuddy `~/.workbuddy/skills/`、Codex skills 目录）即可调用。
+反讽升格短视频：企划 + 口播 + 生视频提示词。本仓库是一个 Agent 技能（SKILL.md 为唯一权威定义），把上面的方法论沉淀为可被对话触发的可执行流程。
+
+## 怎么做（工作流）
+
+<p align="center">
+  <img src="./assets/readme/workflow.svg" width="100%" alt="domn-film-ironic-upgrade 工作流：定企划 → 写口播 → 升格提示词 → 控节奏。模仿不是夸张，是还原；笑点落话术不落人">
+</p>
+
+1. **定企划**
+2. **写口播**
+3. **升格提示词**
+4. **控节奏**
+
+## 怎么用
+
+将本仓库放入支持 `SKILL.md` 的 Agent 技能目录：
+
+- **WorkBuddy**：`~/.workbuddy/skills/domn-film-ironic-upgrade/`
+- **Codex / 其他**：对应 skills 目录
+
+然后在对话中触发，例如：
+
+```
+用 domn-film-ironic-upgrade 帮我处理一段需求。
+```
+
+## 依赖
+
+纯提示词方法论 + references/ 弹药库；出视频依赖视频生成模型.
+
+## 仓库结构
+
+```
+domn-film-ironic-upgrade/
+├── SKILL.md                 # 技能定义（唯一权威）
+├── references/              # 方法论弹药库
+├── assets/                  # 模板 / 占位素材
+└── assets/readme/           # 本 README 的视觉资产（hero.webp / workflow.svg）
+```
+
+## 许可
+
+本仓库内容以 `SKILL.md` 为唯一权威定义。如附带 `LICENSE` 文件，以其为准。
 
 ---
-*本仓库由 domn skills 库导出，技能定义以 `SKILL.md` 为准。*
+
+*README 由 `beautify-github-readme` 生成 · 封面图来自作者作品集，强调色由封面图采样派生。*
