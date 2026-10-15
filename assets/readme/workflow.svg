@@ -1,36 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">domn-film-ironic-upgrade 工作流</title>
-  <desc id="desc">反讽升格短视频：企划 + 口播 + 生视频提示词。阶段：定企划 → 写口播 → 升格提示词 → 控节奏。</desc>
-  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
-  <g id="title-block" transform="translate(56 40)">
-    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–4</text>
-    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">反讽升格短视频：企划 + 口播 + 生视频提示词</text>
-  </g>
-  <g id="project-proof">
-    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#B47E48" stroke-width="3"/>
-    <path d="M273.0 174 L287.0 180 L273.0 186 Z" fill="#B47E48"/>
-    <path d="M593.0 174 L607.0 180 L593.0 186 Z" fill="#B47E48"/>
-    <path d="M913.0 174 L927.0 180 L913.0 186 Z" fill="#B47E48"/>
-    <g id="stage-1" transform="translate(120 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B47E48" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">定企划</text>
-    </g>
-    <g id="stage-2" transform="translate(440 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B47E48" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">写口播</text>
-    </g>
-    <g id="stage-3" transform="translate(760 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#B47E48" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">升格提示词</text>
-    </g>
-    <g id="stage-4" transform="translate(1080 180)">
-      <circle r="30" fill="#B47E48" stroke="#B47E48" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">控节奏</text>
-    </g>
-  </g>
-  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">模仿不是夸张，是还原；笑点落话术不落人</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<title>domn-film-ironic-upgrade 工作流：定配方→拆套路→排零件→写文案→配画面→过自检→生成提示词</title>
+<desc>前后反差裂分：廉价物 vs 高贵语境；结尾谐音焊死收口。样片表皮不继承、话语体系可换、五层骨架必继承。</desc>
+<rect width="0" height="0" fill="#0C0F13"/>
+<rect x="70" y="70" width="430" height="200" rx="12" fill="#11161B" stroke="#7E8794" stroke-width="2"/><rect x="700" y="70" width="430" height="200" rx="12" fill="#1A1410" stroke="#B47E48" stroke-width="2"/><text x="285" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#7E8794" font-weight="700" text-anchor="middle">CHEAP</text><text x="285" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#7E8794" font-weight="400" text-anchor="middle">廉价日常物</text><text x="915" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#B47E48" font-weight="700" text-anchor="middle">NOBLE</text><text x="915" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#B47E48" font-weight="400" text-anchor="middle">高贵话语体系</text><line x1="500" y1="170" x2="700" y2="170" stroke="#B47E48" stroke-width="3"/><polygon points="708,162 690,175 712,175" fill="#B47E48" stroke="none" stroke-width="2"/><circle cx="600" cy="300" r="22" fill="none" stroke="#B47E48" stroke-width="3"/><text x="600" y="338" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#B47E48" font-weight="700" text-anchor="middle">谐音焊死收口</text><text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#B47E48" font-weight="700" text-anchor="start">前后反差裂分</text><text x="60" y="330" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#7E8794" font-weight="400" text-anchor="start">真实套路逐条拆准，笑点自己长出来</text>
 </svg>
